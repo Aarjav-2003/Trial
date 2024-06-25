@@ -7,6 +7,6 @@
   <li><b>Main Game Loop</b></li>
   <p>This loop continues until the player guesses the correct number. After each guess, the program provides feedback on whether the guess was too low, too high, or correct. The number of attempts is also tracked and displayed when the player guesses the number correctly.</p>
 </ol>
-<h3>Simple Instructions while Playing the Game</h3>
+<h3>Only Simple Instruction while Playing the Game</h3>
 <p>When you run the program, it will prompt you to enter your guesses. Based on your input, it will provide feedback until you guess the correct number. </p>
-#This simple game is an enjoyable way to demonstrate basic programming concepts like input/output, loops, and random number generation.
+<h4>This simple game is an enjoyable way to demonstrate basic programming concepts like input/output, loops, and random number generation.</h4>
